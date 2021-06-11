@@ -8,11 +8,6 @@ namespace NumerosRomanos.ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            ValoresRomanos dicionariosRomanos = new ValoresRomanos(); 
-            Console.WriteLine("X̄");
-            Console.Read();
-        }
+        static void Main(string[] args) { }
     }
 }
